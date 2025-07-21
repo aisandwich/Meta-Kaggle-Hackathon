@@ -3,6 +3,14 @@
 Analyzing Meta Kaggle datasets to uncover how Kaggle shaped the global AI community through competitions, kernels, and forums.  
 This project explores user growth, competition trends, kernel usage, and technical shifts that reveal Kaggle’s pivotal role in democratizing AI and machine learning.
 
+## 🔍 **Objective**
+
+Analyze Kaggle’s 15-year journey (2010-2025) to understand:
+- How competitions shaped AI challenges and research.
+- How kernels enabled hands-on AI learning at scale.
+- How datasets powered experimentation in ML, DL, CV, NLP, and LLMs.
+- How global community engagement evolved.
+
 ---
 
 ## 🚀 Key Insights Covered
@@ -31,26 +39,6 @@ This project explores user growth, competition trends, kernel usage, and technic
 README.md       - This file  
 requirements.txt - Dependencies for running notebooks/scripts  
 LICENSE         - MIT License  
-
----
-
-## 🔍 **Objective**
-
-Analyze Kaggle’s 15-year journey (2010-2025) to understand:
-- How competitions shaped AI challenges and research.
-- How kernels enabled hands-on AI learning at scale.
-- How datasets powered experimentation in ML, DL, CV, NLP, and LLMs.
-- How global community engagement evolved.
-
----
-
-## 📊 **Key Insights**
-
-- **25 Million Users:** From all continents, especially Asia and America.
-- **Competitions:** AI research accelerated through rigorous challenges.
-- **Kernels:** Growth in code complexity, usage of GPUs/TPUs, and LLM experimentation.
-- **Community:** Forums, forks, and shared learnings foster collaboration.
-- **Technologies:** Libraries like NumPy, TensorFlow, PyTorch dominated usage.
 
 ---
 
