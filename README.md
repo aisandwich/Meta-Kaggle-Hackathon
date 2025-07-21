@@ -23,3 +23,11 @@ This project explores user growth, competition trends, kernel usage, and technic
 - Use of accelerators (GPU, TPU) and technical categories
 - Library usage trends (NumPy, TensorFlow, PyTorch, etc.)
 - AI disciplines (CV, NLP, LLMs) through competitions and datasets
+
+## 📁 Repository Structure
+/datasets/      - Processed and curated datasets used in analysis
+/notebooks/     - Exploratory Data Analysis & Visualizations (Jupyter)
+/insights/      - Final visualizations and key findings (Images/PDFs)
+README.md       - This file
+requirements.txt - Dependencies for running notebooks/scripts
+LICENSE         - MIT License
