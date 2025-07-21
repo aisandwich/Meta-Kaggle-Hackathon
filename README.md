@@ -25,9 +25,37 @@ This project explores user growth, competition trends, kernel usage, and technic
 - AI disciplines (CV, NLP, LLMs) through competitions and datasets
 
 ## 📁 Repository Structure
-/datasets/      - Processed and curated datasets used in analysis
-/notebooks/     - Exploratory Data Analysis & Visualizations (Jupyter)
-/insights/      - Final visualizations and key findings (Images/PDFs)
-README.md       - This file
-requirements.txt - Dependencies for running notebooks/scripts
-LICENSE         - MIT License
+/datasets/      - Processed and curated datasets used in analysis  
+/notebooks/     - Exploratory Data Analysis & Visualizations (Jupyter)  
+/insights/      - Final visualizations and key findings (Images/PDFs)  
+README.md       - This file  
+requirements.txt - Dependencies for running notebooks/scripts  
+LICENSE         - MIT License  
+
+---
+
+## 🔍 **Objective**
+
+Analyze Kaggle’s 15-year journey (2010-2025) to understand:
+- How competitions shaped AI challenges and research.
+- How kernels enabled hands-on AI learning at scale.
+- How datasets powered experimentation in ML, DL, CV, NLP, and LLMs.
+- How global community engagement evolved.
+
+---
+
+## 📊 **Key Insights**
+
+- **25 Million Users:** From all continents, especially Asia and America.
+- **Competitions:** AI research accelerated through rigorous challenges.
+- **Kernels:** Growth in code complexity, usage of GPUs/TPUs, and LLM experimentation.
+- **Community:** Forums, forks, and shared learnings foster collaboration.
+- **Technologies:** Libraries like NumPy, TensorFlow, PyTorch dominated usage.
+
+---
+
+## 🚀 **How to Use**
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/kaggle-meta-ai-analysis.git
